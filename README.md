@@ -4,6 +4,8 @@ Delayed Open Source Attribution License 1.0 (DOSA-1.0)</h1>
 License text copyright © 2021 Child Mind Institute, Inc. All Rights Reserved.
 
 "Delayed Open Source Attribution License" and "DOSA License" are trademarks of Child Mind Institute, Inc.
+
+[License text files available at https://github.com/ChildMindInstitute/DOSA-license]
                         
 Though it is not itself an open source license, the purpose of this Delayed Open Source Attribution License 
 (the "DOSA License") is to provide open access to software for non-commercial use while giving attribution to its original developer, 
