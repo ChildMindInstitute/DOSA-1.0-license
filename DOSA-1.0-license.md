@@ -52,7 +52,8 @@ to license your works, and to refer to it using the trademark "Delayed Open Sour
       <li>To the extent permitted by applicable law, the Software is provided on an "as is" basis. Licensor hereby disclaims all warranties and conditions, express or implied, including (without limitation) warranties of merchantability, fitness for a particular purpose, non-infringement, and title.</li>
     </ol>
   </li>  
-
+</ol>
+  
 ## Definitions
 
 "Attribution Information" means the information set forth in Exhibit B to Schedule A.
