@@ -1,4 +1,4 @@
-<h1><img width="100" src="https://github.com/ChildMindInstitute/DOSA-license/DOSA_logo.png" class="img-responsive img-centered" alt="DOSA logo">
+<h1><img width="100" src="https://github.com/ChildMindInstitute/DOSA-license/blob/main/DOSA_logo.png" class="img-responsive img-centered" alt="DOSA logo">
 Delayed Open Source Attribution License 1.0 (DOSA-1.0)</h1>
 
 License text copyright © 2021 Child Mind Institute, Inc. All Rights Reserved.
