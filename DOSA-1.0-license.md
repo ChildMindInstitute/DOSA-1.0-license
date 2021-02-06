@@ -71,9 +71,9 @@ to license your works, and to refer to it using the trademark "Delayed Open Sour
 
 "Modifications" means any addition to or deletion from the substance or structure of either the Original Code or any previous Modifications. When the Software is released as a series of files, a Modification is:
 
-A. Any addition to or deletion from the contents of a file containing Original Code or previous Modifications.
+    A. Any addition to or deletion from the contents of a file containing Original Code or previous Modifications.
 
-B. Any new file that contains any part of the Original Code or previous Modifications.
+    B. Any new file that contains any part of the Original Code or previous Modifications.
 
 "Original Code" means the original Source Code developed by the Original Developer, and which, at the time of its release under this DOSA License is not already governed by this DOSA License.
 
